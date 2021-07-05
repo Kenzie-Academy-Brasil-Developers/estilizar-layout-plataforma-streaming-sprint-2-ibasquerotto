@@ -113,16 +113,13 @@ footer button{
 		flex-direction: column;
 		align-items: center;
 		justify-content: center;
+		max-width:186px;
 		
 		
-		
-
-
 	}
 
 	ul li figure{
-		height:186px;
-		max-width:186px;
+		max-width: 100%;
 		margin-top: 30px;
 		margin-bottom: 30px;
 		display: flex;
